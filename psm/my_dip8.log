@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : my_dip8.dra                                   )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Jul 16 12:22:29 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/vscode_orcad/workspace/pcb_lib/psm
+    Name      = my_dip8.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
