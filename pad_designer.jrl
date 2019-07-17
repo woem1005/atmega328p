@@ -1,0 +1,8 @@
+\t (00:00:06) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:06)     Journal start - Wed Jul 17 11:48:38 2019
+\t (00:00:06)         Host=USER-PC User=user Pid=984 CPUs=4
+\t (00:00:06) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\pad_designer.exe
+\t (00:00:06) 
+\i (00:00:07) FORM padedit layers  
+\i (00:07:01) pse_exit
+\t (00:07:01)     Journal end - Wed Jul 17 11:55:33 2019
