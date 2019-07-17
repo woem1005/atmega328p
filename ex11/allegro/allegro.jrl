@@ -1,0 +1,50 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Tue Jul 16 21:51:30 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=6768 CPUs=4
+\t (00:00:01) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\VSCODE_ORCAD\WORKSPACE\PCB_LIB\EX11\allegro\EX1.brd
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/USERS/USER/DESKTOP/VSCODE_ORCAD/WORKSPACE/PCB_LIB/EX11/allegro/EX1.brd
+\i (00:00:03) trapsize 25641
+\i (00:00:03) trapsize 24531
+\i (00:00:03) trapsize 25836
+\i (00:00:03) trapsize 19451
+\i (00:00:03) trapsize 19451
+\i (00:00:03) generaledit 
+\i (00:00:08) place manual 
+\i (00:00:09) setwindow form.plc_manual
+\i (00:00:09) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\w (00:00:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:09) Placing U1 / ATMEGA48-MLF32_0_ATMEGA328P_ATM / ATMEGA328P on Top.
+\i (00:00:09) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:00:10) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\i (00:00:10) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:10) FORM plc_manual hide  
+\i (00:00:11) setwindow pcb
+\i (00:00:11) pick grid 9686.50 10368.42
+\t (00:00:11) last pick:  9700.00 10400.00
+\t (00:00:11) Placing U3 / ATMEGA48-MLF32_0_ATMEGA328P_ATM / ATMEGA328P on Top.
+\i (00:00:11) pick grid 14588.10 10173.91
+\t (00:00:11) last pick:  14600.00 10200.00
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 9025.17 11379.86
+\i (00:00:13) trapsize 9725
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 9064.07 11360.42
+\i (00:00:14) trapsize 4863
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 9842.11 9619.57
+\i (00:00:15) trapsize 9725
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 10347.83 9074.95
+\i (00:00:15) trapsize 4863
+\i (00:01:03) exit 
+\e (00:01:03) Do you want to save the changes you made to EX1.brd?
+\i (00:01:05) fillin no 
+\t (00:01:06)     Journal end - Tue Jul 16 21:52:35 2019

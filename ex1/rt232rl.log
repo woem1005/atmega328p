@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RT232RL.dra                                   )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Tue Jul 16 21:24:37 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/vscode_orcad/workspace/pcb_lib/ex1
+    Name      = rt232rl.psm
+    User      = user
+    Machine   = USER-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

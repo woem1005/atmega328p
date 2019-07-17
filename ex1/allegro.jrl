@@ -1,0 +1,247 @@
+\t (00:01:19) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:19)     Journal start - Tue Jul 16 21:10:57 2019
+\t (00:01:19)         Host=USER-PC User=user Pid=3556 CPUs=4
+\t (00:01:19) CmdLine= allegro.exe -p .
+\t (00:01:19) 
+\t (00:01:19) Starting new design...
+\i (00:01:20) trapsize 1442
+\i (00:01:20) trapsize 1415
+\i (00:01:20) trapsize 1442
+\i (00:01:20) trapsize 1709
+\i (00:01:20) trapsize 2685
+\i (00:01:20) trapsize 2685
+\i (00:01:20) package symbol wizard 
+\i (00:01:21) generaledit 
+   (00:01:28) Loading cmds.cxt 
+   (00:01:28) Loading axlcore.cxt 
+\i (00:01:28) setwindow form.sym_wizard
+\i (00:01:28) FORM sym_wizard plcc YES 
+\i (00:01:29) FORM sym_wizard dip YES 
+\i (00:01:29) FORM sym_wizard soic YES 
+\i (00:01:30) FORM sym_wizard dip YES 
+\i (00:01:30) FORM sym_wizard soic YES 
+\i (00:01:31) FORM sym_wizard dip YES 
+\i (00:01:31) FORM sym_wizard soic YES 
+\i (00:01:32) FORM sym_wizard dip YES 
+\i (00:01:32) FORM sym_wizard soic YES 
+\i (00:01:32) FORM sym_wizard dip YES 
+\i (00:01:33) FORM sym_wizard soic YES 
+\i (00:01:33) FORM sym_wizard dip YES 
+\i (00:01:34) FORM sym_wizard soic YES 
+\i (00:01:34) FORM sym_wizard dip YES 
+\i (00:01:35) FORM sym_wizard soic YES 
+\i (00:01:35) FORM sym_wizard dip YES 
+\i (00:01:36) FORM sym_wizard soic YES 
+\i (00:01:36) FORM sym_wizard dip YES 
+\i (00:01:36) FORM sym_wizard soic YES 
+\i (00:01:37) FORM sym_wizard dip YES 
+\i (00:01:39) FORM sym_wizard wiz_next  
+\i (00:01:40) FORM sym_wizard load_template  
+\t (00:01:40) Opening existing design...
+\i (00:01:41) fillin yes 
+\t (00:01:41) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:01:41) setwindow pcb
+\i (00:01:41) trapsize 211
+\d (00:01:41) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:01:43) setwindow form.sym_wizard
+\i (00:01:43) FORM sym_wizard wiz_next  
+\i (00:01:46) FORM sym_wizard pack_units Millimeter 
+\i (00:01:47) FORM sym_wizard pack_units_create Millimeter 
+\i (00:01:50) FORM sym_wizard wiz_next  
+\i (00:02:43) FORM sym_wizard dip_pin_count 28 
+\i (00:02:46) FORM sym_wizard dip_e 0.650 
+\i (00:03:01) FORM sym_wizard dip_e1 5.300 
+\i (00:03:22) FORM sym_wizard dip_e1 7.800 
+\i (00:03:25) FORM sym_wizard dip_width 5.300 
+\i (00:04:00) FORM sym_wizard dip_len 10.200 
+\i (00:04:00) FORM sym_wizard wiz_next  
+\i (00:04:10) FORM sym_wizard default_pad_browse  
+\i (00:14:15) fillin "Smd70rec20"
+\i (00:14:18) FORM sym_wizard wiz_next  
+\i (00:14:20) FORM sym_wizard wiz_next  
+\i (00:14:21) FORM sym_wizard wiz_finish  
+\w (00:14:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:14:21) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:14:21) setwindow pcb
+\i (00:14:21) trapsize 5371
+\t (00:14:21) Performing DRC...
+\t (00:14:21) No DRC errors detected.
+\w (00:14:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:14:21) trapsize 5371
+\i (00:14:21) trapsize 758
+\i (00:14:21) trapsize 101
+\i (00:14:21) trapsize 101
+\t (00:14:21) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/pcb_lib/ex1/rt232rl.psm'.
+\t (00:14:21) Starting Create symbol...
+\i (00:14:26) generaledit 
+\i (00:14:55) save 
+\i (00:14:58) fillin yes 
+\t (00:14:59) Symbol 'rt232rl.psm' created.
+\i (00:14:59) generaledit 
+\i (00:15:07) new 
+\i (00:15:28) newdrawfillin "atmega328p.dra" "Package Symbol (Wizard)"
+\t (00:15:28) Starting new design...
+\i (00:15:29) trapsize 190
+\i (00:15:29) trapsize 190
+\i (00:15:29) package symbol wizard 
+\i (00:15:29) generaledit 
+\i (00:17:11) setwindow form.sym_wizard
+\i (00:17:11) FORM sym_wizard plcc YES 
+\i (00:17:12) FORM sym_wizard wiz_next  
+\i (00:17:14) FORM sym_wizard load_template  
+\t (00:17:14) Opening existing design...
+\i (00:17:14) fillin yes 
+\t (00:17:14) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:17:14) setwindow pcb
+\i (00:17:14) trapsize 211
+\d (00:17:15) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:17:16) setwindow form.sym_wizard
+\i (00:17:16) FORM sym_wizard wiz_back  
+\i (00:17:19) FORM sym_wizard wiz_next  
+\e (00:17:56) Command not found: xhilite
+\i (00:17:56) setwindow pcb
+\i (00:17:56) xname_flush 
+\i (00:17:56) done 
+\i (00:17:56) generaledit 
+\e (00:17:56) ERROR(SPMHDB-20): Buffer not initialized.
+\i (00:18:00) setwindow form.sym_wizard
+\i (00:18:00) FORM sym_wizard load_template  
+\i (00:18:01) fillin yes 
+\t (00:18:01) Opening existing design...
+\i (00:18:03) fillin yes 
+\t (00:18:03) Grids are drawn 800, 800 apart for enhanced viewability.
+\t (00:18:03) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:18:03) setwindow pcb
+\i (00:18:03) trapsize 211
+\d (00:18:03) Design opened: C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:18:04) setwindow form.sym_wizard
+\i (00:18:04) FORM sym_wizard wiz_next  
+\i (00:18:06) FORM sym_wizard pack_units Millimeter 
+\i (00:18:08) FORM sym_wizard pack_units_create Millimeter 
+\i (00:18:33) FORM sym_wizard wiz_next  
+\i (00:18:51) FORM sym_wizard qfp_pin_count_v 8 
+\i (00:19:02) FORM sym_wizard qfp_pin_count_h 8 
+\i (00:19:02) FORM sym_wizard qfp_pin1_corner YES 
+\i (00:19:52) FORM sym_wizard wiz_next  
+\t (00:20:01) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:20:01) setwindow pcb
+\i (00:20:01) trapsize 376
+\i (00:20:45) setwindow form.sym_wizard
+\i (00:20:45) FORM sym_wizard qfp_e1 9.000 
+\i (00:20:45) FORM sym_wizard qfp_e2 9.000 
+\i (00:20:47) FORM sym_wizard qfp_width 7.000 
+\i (00:20:51) FORM sym_wizard qfp_len 7.000 
+\i (00:20:51) FORM sym_wizard wiz_next  
+\i (00:20:52) FORM sym_wizard default_pad_browse  
+\i (00:27:09) fillin "Smd75_25"
+\i (00:27:10) FORM sym_wizard wiz_next  
+\i (00:27:12) FORM sym_wizard wiz_next  
+\i (00:27:13) FORM sym_wizard wiz_finish  
+\w (00:27:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:27:13) Grids are drawn 10.160, 10.160 apart for enhanced viewability.
+\i (00:27:13) setwindow pcb
+\i (00:27:13) trapsize 9552
+\t (00:27:13) Performing DRC...
+\t (00:27:13) No DRC errors detected.
+\w (00:27:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:27:13) trapsize 9552
+\i (00:27:13) trapsize 1042
+\i (00:27:13) trapsize 208
+\i (00:27:13) trapsize 208
+\t (00:27:13) Creating package symbol 'C:/Users/user/Desktop/vscode_orcad/workspace/pcb_lib/ex1/atmega328p.psm'.
+\t (00:27:13) Starting Create symbol...
+\i (00:27:13) generaledit 
+\i (00:27:15) zoom in 1 
+\i (00:27:15) setwindow pcb
+\i (00:27:15) zoom in 0.305 -5.781
+\i (00:27:15) trapsize 104
+\i (00:27:15) zoom in 1 
+\i (00:27:15) setwindow pcb
+\i (00:27:15) zoom in 0.285 -5.760
+\i (00:27:15) trapsize 52
+\i (00:27:16) zoom in 1 
+\i (00:27:16) setwindow pcb
+\i (00:27:16) zoom in -0.382 -4.842
+\i (00:27:16) trapsize 26
+\i (00:27:16) zoom in 1 
+\i (00:27:16) setwindow pcb
+\i (00:27:16) zoom in -0.382 -4.842
+\i (00:27:16) trapsize 13
+\i (00:27:18) zoom in 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom in -0.311 -4.701
+\i (00:27:18) trapsize 7
+\i (00:27:18) zoom in 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom in -0.299 -4.717
+\i (00:27:18) trapsize 3
+\i (00:27:18) zoom in 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom in -0.295 -4.714
+\i (00:27:18) trapsize 2
+\i (00:27:18) zoom in 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom in -0.295 -4.709
+\i (00:27:18) trapsize 1
+\i (00:27:18) zoom in 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom in -0.296 -4.706
+\i (00:27:18) trapsize 1
+\i (00:27:18) zoom out 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom out -0.296 -4.707
+\i (00:27:18) trapsize 1
+\i (00:27:18) zoom out 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom out -0.296 -4.706
+\i (00:27:18) trapsize 2
+\i (00:27:18) zoom out 1 
+\i (00:27:18) setwindow pcb
+\i (00:27:18) zoom out -0.295 -4.706
+\i (00:27:18) trapsize 3
+\i (00:27:18) zoom out 1 
+\i (00:27:19) setwindow pcb
+\i (00:27:19) zoom out -0.296 -4.707
+\i (00:27:19) trapsize 6
+\i (00:27:19) zoom out 1 
+\i (00:27:19) setwindow pcb
+\i (00:27:19) zoom out -0.304 -4.649
+\i (00:27:19) trapsize 13
+\i (00:27:19) zoom out 1 
+\i (00:27:19) setwindow pcb
+\i (00:27:19) zoom out -0.305 -4.649
+\i (00:27:19) trapsize 26
+\i (00:27:19) zoom out 1 
+\i (00:27:19) setwindow pcb
+\i (00:27:19) zoom out -0.304 -4.648
+\i (00:27:19) trapsize 51
+\i (00:27:20) zoom in 1 
+\i (00:27:20) setwindow pcb
+\i (00:27:20) zoom in -0.530 -3.074
+\i (00:27:20) trapsize 26
+\i (00:27:21) zoom in 1 
+\i (00:27:21) setwindow pcb
+\i (00:27:21) zoom in -0.530 -3.085
+\i (00:27:21) trapsize 13
+\i (00:27:22) zoom out 1 
+\i (00:27:22) setwindow pcb
+\i (00:27:22) zoom out -0.312 -3.394
+\i (00:27:22) trapsize 26
+\i (00:27:22) zoom out 1 
+\i (00:27:22) setwindow pcb
+\i (00:27:22) zoom out -0.311 -3.394
+\i (00:27:22) trapsize 51
+\i (00:27:22) zoom out 1 
+\i (00:27:22) setwindow pcb
+\i (00:27:22) zoom out -0.310 -3.393
+\i (00:27:22) trapsize 103
+\i (00:27:22) zoom out 1 
+\i (00:27:22) setwindow pcb
+\i (00:27:22) zoom out -0.311 -3.393
+\i (00:27:22) trapsize 206
+\i (00:27:24) save 
+\i (00:27:29) fillin yes 
+\t (00:27:29) Symbol 'atmega328p.psm' created.
+\i (00:27:29) generaledit 
+\i (00:27:40) exit 
+\t (00:27:43)     Journal end - Tue Jul 16 21:37:21 2019
